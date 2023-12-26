@@ -20,9 +20,8 @@ Minha paixão se trata de ajudar os outros a lidar com problemas, buscando solu�
 
 Aqui estão alguns dos meus projetos que eu criei ou contribuí:
 
-- [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS]([https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/](https://github.com/BrunoCRezende/TCC_ARPIN)): Essa aplicação trata-se de uma ferramenta para aprendizado de sistemas embarcados, na qual pode-se ver desde conceitos iniciais de eletrônica até mesmo alguns conceitos intermediários de Arduino Uno R3.  
-- [Projeto 2](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2): Uma breve descrição do projeto 2.
-- [Projeto 3](https://dev.to/boiliev/how-to-write-a-good-readme-file-2c0d): Uma breve descrição do projeto 3.
+- [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/BrunoCRezende/TCC_ARPIN): Essa aplicação trata-se de uma ferramenta para aprendizado de sistemas embarcados, na qual pode-se ver desde conceitos iniciais de eletrônica até mesmo alguns conceitos intermediários de Arduino Uno R3.  
+
 
 ## Como me encontrar
 
