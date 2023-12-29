@@ -11,7 +11,7 @@ Minha paixão se trata de ajudar os outros a lidar com problemas, buscando solu�
 * Android Jetpack Compose
 * Spring Framework
 
-### Algumas de minhas habilidades:
+### Estatísticas/Linguagens:
 
 <a href="https://github.com/gustavodscruz/github-readme-stats"><img height="180em" src= "https://github-readme-stats.vercel.app/api?username=gustavodscruz&show_icons=true&theme=tokyonight"></a>
 <a href="https://github.com/gustavodscruz/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodscruz&layout=compact&theme=tokyonight"></a>
