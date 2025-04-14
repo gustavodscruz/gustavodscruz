@@ -6,25 +6,14 @@ Sou Gustavo Dias da Silva Cruz, desenvolvedor web e mobile e também criador UI/
 Minha paixão se trata de ajudar os outros a lidar com problemas, buscando soluções para os mesmos. Utilizando software como soluções para variados clientes, procuro tratar de forma empática para resolução de suas dores :)
 
 ## Tratando de conhecimentos técnicos, desenvolvo desde aplicações utilizando... 
-* Laravel/Next.js
-* Flutter
-* Android Jetpack Compose
 * Spring Framework
+* Typescript Frameworks - React, Angulaar
+* Python - Machine Learning, TensorFlow, Keras
 
 ### Estatísticas/Linguagens:
 
 <a href="https://github.com/gustavodscruz/github-readme-stats"><img height="180em" src= "https://github-readme-stats.vercel.app/api?username=gustavodscruz&show_icons=true&theme=tokyonight"></a>
 <a href="https://github.com/gustavodscruz/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodscruz&layout=compact&theme=tokyonight"></a>
-
-## Meus projetos
-Aqui estão alguns dos meus projetos que eu criei ou contribuí:
-
-Veja meu portfólio!
-- [PORTFOLIO](https://gustavodscruz.tech)
-
-Veja meu TCC!
-- [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/BrunoCRezende/TCC_ARPIN): Essa aplicação trata-se de uma ferramenta para aprendizado de sistemas embarcados, na qual pode-se ver desde conceitos iniciais de eletrônica até mesmo alguns conceitos intermediários de Arduino Uno R3.  
-
 
 ## Como me encontrar
 
