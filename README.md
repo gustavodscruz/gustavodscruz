@@ -8,10 +8,6 @@ Estou ingressado no mercado de trabalho desde 2024.
 
 Minha paixão se trata de ajudar os outros a lidar com problemas, buscando soluções para os mesmos. Utilizando software como soluções para variados clientes, procuro tratar de forma empática para resolução de suas dores :)
 
-## Tratando de conhecimentos técnicos, desenvolvo desde aplicações utilizando... 
-* Spring Framework
-* Typescript Frameworks - React, Angulaar
-* Python - Machine Learning, TensorFlow, Keras
 
 ### Estatísticas/Linguagens:
 
