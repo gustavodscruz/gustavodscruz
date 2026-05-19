@@ -1,9 +1,9 @@
-# Gustavo Dias da Silva Cruz - Desenvolvedor Web e Mobile
+# Gustavo Dias da Silva Cruz - Desenvolvedor Backend  
 👋Olá!!
 
-Sou Gustavo Dias da Silva Cruz, desenvolvedor web full-stack. 
+Sou Gustavo Dias da Silva Cruz, desenvolvedor backend Java.
 
-Cursei técnico em Desenvolvimento de Sistemas na Etec Zona Leste e ingressado em Análise e Desenvolvimento de Sistemas na FIAP.
+Cursei técnico em Desenvolvimento de Sistemas na Etec Zona Leste e Análise e Desenvolvimento de Sistemas na FIAP.
 Estou ingressado no mercado de trabalho desde 2024.
 
 Minha paixão se trata de ajudar os outros a lidar com problemas, buscando soluções para os mesmos. Utilizando software como soluções para variados clientes, procuro tratar de forma empática para resolução de suas dores :)
