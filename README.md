@@ -8,14 +8,6 @@ Estou ingressado no mercado de trabalho desde 2024.
 
 Minha paixão se trata de ajudar os outros a lidar com problemas, buscando soluções para os mesmos. Utilizando software como soluções para variados clientes, procuro tratar de forma empática para resolução de suas dores :)
 
-
-### Estatísticas/Linguagens:
-
-<a href="https://github.com/gustavodscruz/github-readme-stats"><img height="180em" src= "https://github-readme-stats.vercel.app/api?username=gustavodscruz&show_icons=true&theme=tokyonight"></a>
-<a href="https://github.com/gustavodscruz/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodscruz&layout=compact&theme=tokyonight&hide_progress=true">
-</a>
-
 ## Tecnologias 
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
